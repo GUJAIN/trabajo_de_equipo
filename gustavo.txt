@@ -1,3 +1,3 @@
 Hola equipo essto es mas texto en el archivo gustavo.txt
 
-tratamos de subir el archivo para que se genere el conflicto. 
+tratamos de subir el archivo para que se genere el conflicto.
