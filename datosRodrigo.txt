@@ -1,0 +1,5 @@
+let nombre = "Rodrigo";
+let apellido = "Tablada";
+let edad = 31;
+let ciudad = "El Palomar"
+let provincia = "Buenos Aires"

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Gustavo",
+      "apellido": "Insfran",
+      "edad": 43,
+      "ciudad": "Berazategui",
+      "provincia": "Buenos Aires"
+    },
+    {
+      "id": 2,
+      "nombre": "Williams",
+      "apellido": "Sacaca",
+      "edad": 31,
+      "ciudad": "Lanus",
+      "provincia": "Buenos Aires"
+    },
+    {
+      "id": 3,
+      "nombre": "Flavio",
+      "apellido": "Tablada",
+      "edad": 31,
+      "ciudad": "El Palomar",
+      "provincia": "Buenos Aires"
+    }
+]
