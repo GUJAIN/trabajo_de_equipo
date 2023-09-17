@@ -1,2 +1,1 @@
-Hola equipo essto es mas texto en el archivo gustavo.txt
-Hola equipo essto es mas texto en el archivo gustavo.txt. Duplique el archivo.
+Hola al mejor equipo, esto es MAS texto en el archivo gustavo.txt
